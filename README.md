@@ -16,5 +16,5 @@ The model is trained on the XYZ Lip Reading dataset, which contains a diverse se
 Our model achieves an accuracy of 85% on the XYZ Lip Reading dataset, demonstrating its effectiveness in silent speech recognition.
 
 # Contributors:
-* [Sai Manoj Yarlagadda](github.com/yarlagadda-saimanoj)
-* [S R Suhas](github.com)
+* [Sai Manoj Yarlagadda](https://github.com/Yarlagadda-saimanoj)
+* [S R Suhas](https://github.com/srsuhas0689)
