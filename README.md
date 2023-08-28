@@ -30,5 +30,3 @@ Our model achieves an accuracy of 85% on the XYZ Lip Reading dataset, demonstrat
 * [Journey to Cloud: Envisioning Your Solution](https://www.credly.com/badges/74979015-243d-43cb-aa23-168ef5b678aa)
 *  [Artificial Intelligence Fundamentals](https://www.credly.com/badges/e7aa2baa-e3cc-44a3-b8c7-869f44187253)
 
-# License: 
-MIT LICENSE
