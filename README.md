@@ -18,3 +18,8 @@ Our model achieves an accuracy of 85% on the XYZ Lip Reading dataset, demonstrat
 # Contributors:
 * [Sai Manoj Yarlagadda](https://github.com/Yarlagadda-saimanoj)
 * [S R Suhas](https://github.com/srsuhas0689)
+
+
+# Badges:
+[![Credly Badge](https://github.com/smartinternz02/SBSPS-Challenge-9976-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/blob/main/Badges/journey-to-cloud-envisioning-your-solution.2.png)](https://www.credly.com/badges/6254baf0-b7e4-41f8-a7ec-d74d98aa7b6f/public_url)
+
